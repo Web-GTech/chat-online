@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://localhost:8080'); 
+const socket = new WebSocket('ws://chat-online-4yuh.onrender.com'); 
 const loginForm = document.querySelector('.login__form');
 const chatSection = document.querySelector('.chat');
 const loginSection = document.querySelector('.login');
